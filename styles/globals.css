@@ -15,3 +15,4 @@ h6 {
 body {
   font-family: var(--font-secondary);
 }
+body{direction:rtl; font-family: serif!important;}
